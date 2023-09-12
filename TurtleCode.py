@@ -1,3 +1,11 @@
+"""
+This code is to teach us about the SOLID method of coding.
+SOLID is a programming practice that makes code more efficient, easier to modify, and easier for other people to understand
+This code uses turtle to create shapes and OOP to give meaning to the two different shapes ive made.
+
+Daniel Fraser
+"""
+
 import turtle
 
 
