@@ -1,3 +1,9 @@
+"""
+This code i found online
+It has example code of good use of SOLID and bad use of SOLID
+I used to reference for my project
+"""
+
 # Bad example
 # class Rectangle:
 #     def __init__(self, width, height):
