@@ -1,3 +1,12 @@
+"""
+This code is simply me showing what i already know about coding before the course.
+This program is a complilation of challanges that were given to the class to teach them some basic python skills and syntax.
+I decided to expand on these challenges and make it interactive with the user and more advanced than was required.
+
+Daniel Fraser
+"""
+
+
 import random
 
 # This was the second challenge, i had to add 2 numbers
